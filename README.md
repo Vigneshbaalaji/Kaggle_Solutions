@@ -46,4 +46,10 @@
     <td>https://www.kaggle.com/vigneshbaalaji/osvkm-malaria-prediction-resnet50</td>
   </tr>
   
+  <tr>
+    <td>Scene Recognizer</td>
+    <td>Intel Image Classification</td> 
+    <td>https://www.kaggle.com/vigneshbaalaji/osvkm-intel-image-classification-transfer-learning</td>
+  </tr>
+  
 </table>
