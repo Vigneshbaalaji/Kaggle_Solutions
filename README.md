@@ -52,4 +52,10 @@
     <td>https://www.kaggle.com/vigneshbaalaji/osvkm-intel-image-classification-transfer-learning</td>
   </tr>
   
+   <tr>
+    <td>Market Basket Analysis using Apriori Algorithm</td>
+    <td>Market Basket Optimization</td> 
+    <td>https://www.kaggle.com/vigneshbaalaji/market-basket-analysis-using-apriori-algorithm</td>
+  </tr>
+  
 </table>
